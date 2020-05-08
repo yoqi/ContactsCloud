@@ -26,4 +26,4 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: artifact
-          path: build/app/outputs
+          path: app/build/outputs
